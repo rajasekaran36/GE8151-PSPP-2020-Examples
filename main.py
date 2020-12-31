@@ -1,9 +1,8 @@
 import os
-units = os.listdir(os.curdir)
-units.sort()
-units.remove('main.py')
-units.remove('.upm')
+units = [file for file in os.listdir(os.curdir) if os.path.isdir(file)]
 units.remove('.git')
+units.sort()
+print(units)
 print("U.No\t:","\tUnit")
 print("-------------------------------------------")
 for i in range(len(units)):
