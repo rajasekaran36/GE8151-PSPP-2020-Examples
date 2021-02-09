@@ -1,7 +1,6 @@
 import os
 units = [file for file in os.listdir(os.curdir) if os.path.isdir(file)]
-units.remove('.git')
-units.remove('.upm')
+units = [unit for unit in units if(unit.find('.')==-1)]
 units.sort()
 print("\nU.No\t:","\tUnit")
 print("-----------------------")
