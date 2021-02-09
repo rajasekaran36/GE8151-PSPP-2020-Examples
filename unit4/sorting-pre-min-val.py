@@ -1,5 +1,5 @@
 def min_value():
-    psss
+    pass
 
 numbers = [6,2,3,1,5,7,4]
 
