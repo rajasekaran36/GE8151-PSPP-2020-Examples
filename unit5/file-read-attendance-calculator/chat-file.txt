@@ -1,0 +1,201 @@
+00:11:45.239,00:11:48.239
+Saravanan K: Man saravanan present mam
+
+00:12:04.435,00:12:07.435
+Jude Jenison: yes mam
+
+00:12:05.782,00:12:08.782
+Kaviya Maheswari: s mam
+
+00:12:10.711,00:12:13.711
+ECE Ramya R: Ramya ECE present mam
+
+00:12:40.367,00:12:43.367
+Maha Lakshmi: Mahalakshmi ECE present mam
+
+00:12:55.373,00:12:58.373
+Vasanth Vassi: I'm vasanth mech present
+
+00:13:06.809,00:13:09.809
+Swathi Gomu: Swathi.p ece present mam
+
+00:14:13.088,00:14:16.088
+Loganathan P: Present mam
+
+00:20:27.012,00:20:30.012
+Kaviya Maheswari: s mam
+
+00:20:41.405,00:20:44.405
+Dhilip S: S mam
+
+00:20:46.002,00:20:49.002
+LAVANYA S: S mam
+
+00:20:51.352,00:20:54.352
+Swathi Mohanraj: S mam
+
+00:36:54.845,00:36:57.845
+Kaviya Maheswari: S mam
+
+00:53:12.922,00:53:15.922
+Lithin abhinav M R: Lithin abhinav  mam
+
+00:53:22.057,00:53:25.057
+S.V Vignesh: Vignesh ECE
+Present
+
+00:53:29.217,00:53:32.217
+Nandha Kumar: Nandha Kumar MECH 20ME08
+
+00:53:35.188,00:53:38.188
+Yogesh V: Yogesh. V ECE present mam
+
+00:53:40.102,00:53:43.102
+Saravanan K: Saravanan k ECE present mam
+
+00:53:46.153,00:53:49.153
+Thiru Murugan: Name:Thirumurugan MECH present mam
+
+00:53:46.367,00:53:49.367
+varun devenderan: Varun. D ece roll 44  present mam
+
+00:53:49.161,00:53:52.161
+LAVANYA S: Lavanya ECE roll no: 17 present mam
+
+00:53:55.269,00:53:58.269
+kirupan702332 p: Kirupan ECE__20EC15
+
+00:54:14.760,00:54:17.760
+Preethi M: 20EC24 Preethi ECE Present  mam
+
+00:54:26.569,00:54:29.569
+Lakshmi Arumugam: Saranya.A EcE present mam
+
+00:54:28.832,00:54:31.832
+Ravishankar D: Ravishankar.D MECH present mam
+
+00:54:44.187,00:54:47.187
+Kaviya Maheswari: Kaviya ECE Roll No:14 present mam
+
+00:54:45.926,00:54:48.926
+Lithin abhinav M R: Lithin abhinav  mechanical present mam
+
+00:54:47.969,00:54:50.969
+Loganathan P: Loganathan ME present mam
+
+00:54:53.560,00:54:56.560
+Ashwin cherry: 20EC04 Ashwin.R ECE present mam
+
+00:55:05.169,00:55:08.169
+Dhilip S: Dhilip 20EC07 ECE
+
+00:55:14.059,00:55:17.059
+Swetha S: Swetha S ECE Roll no 42 present mam
+
+00:55:17.184,00:55:20.184
+ECE Pavithra P: 20EC23 Pavithra P present mam
+
+00:55:20.354,00:55:23.354
+Iyyappan P.m: Name:Iyyappan 20ME04 present mam
+
+00:55:29.786,00:55:32.786
+ECE Shyam Prakash.k: Shyam prakash ECE roll no 36
+
+00:55:34.890,00:55:37.890
+Prem Kumar: Prem Kumar D.K. ECE 20EC25 present mam
+
+00:55:54.674,00:55:57.674
+rpriyanka nandhakumar: Priyanka N  ECE 20EC27
+
+00:56:21.532,00:56:24.532
+ECE Ramya R: Ramya ECE present mam 20EC29
+
+00:56:54.390,00:56:57.390
+Jennifer A: Jennifer ECE present mam
+
+00:57:49.106,00:57:52.106
+Varun: Varun MECH present mam
+
+00:58:21.428,00:58:24.428
+Swathi Mohanraj: Swathi.M ECE 20EC39 present
+
+00:58:55.079,00:58:58.079
+ECE Amritha Sree S: 20EC02 AmrithaSree ECE present ma'am
+
+00:58:55.159,00:58:58.159
+Gajandran Easwaran: Gajendran ECE 20EC08 present mam
+
+00:59:03.931,00:59:06.931
+Jude Jenison: Jude Jenison Joseph W 20EC11 Present mam 
+
+00:59:23.934,00:59:26.934
+Gokul Krishnan: Gokul Krishnan, ECE Present Mam
+
+00:59:41.369,00:59:44.369
+Premica G: 20EC26 Premica ECE present mam
+
+01:00:03.120,01:00:06.120
+Darsani .R: 20EC05 Darsani.r present mam
+
+01:05:58.316,01:06:01.316
+Varun: Varun 20ME15 present mam
+
+01:08:22.722,01:08:25.722
+Sriram R: Sriram R ECE Present Mam
+
+01:21:59.791,01:22:02.791
+Roshan Akthar: Roshan mech present mam
+
+01:22:20.053,01:22:23.053
+ECE Anjana Sree A: Anjana Sree 20EC03 mam
+
+01:23:19.049,01:23:22.049
+Jennifer A: Jennifer A ECE Roll no 10 present mam
+
+01:29:53.642,01:29:56.642
+Gajandran Easwaran: Gajendran. E ECE 20EC08 present mam
+
+01:31:20.042,01:31:23.042
+Kaviya Maheswari: Thank you mam
+
+01:31:22.331,01:31:25.331
+Swathi Mohanraj: Tq mam
+
+01:31:26.973,01:31:29.973
+Swathi Gomu: Tq u mam
+
+01:31:28.493,01:31:31.493
+Vijayalakshmi: Tq mam
+
+01:31:29.923,01:31:32.923
+Dhilip S: Thank u mam
+
+01:31:30.046,01:31:33.046
+LAVANYA S: Thank you mam
+
+01:31:35.813,01:31:38.813
+Subramaniya bharathi A: Thank you mam
+
+01:31:39.693,01:31:42.693
+ECE Ramya R: Tq u ma'am
+
+01:31:44.127,01:31:47.127
+Nithish R: Thank you mam
+
+01:31:44.203,01:31:47.203
+Kousi Priya: Thankumam
+
+01:31:55.074,01:31:58.074
+S.V Vignesh: Today's class video link mam
+
+01:31:58.938,01:32:01.938
+Nithish R: Nithish present mam
+
+01:31:59.276,01:32:02.276
+Sivapriya Veerajayasankar: thank you mam
+
+01:32:01.379,01:32:04.379
+Saravanan K: Tq u mma
+
+01:32:08.800,01:32:11.800
+Subramaniya bharathi A: Subramaniyabharathi.a mech present mam
